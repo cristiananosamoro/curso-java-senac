@@ -1,6 +1,6 @@
 package com.cristian.projeto;
 
-public class Condicional4 {
+public class Condicionalexercicio {
     public static void main(String[] args) {
         
         int notaDoAluno = 82;
