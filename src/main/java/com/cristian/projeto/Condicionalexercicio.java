@@ -5,7 +5,7 @@ public class Condicionalexercicio {
         
         int notaDoAluno = 82;
         if(notaDoAluno >= 90){
-System.out.println("Conceito S: Exelente!");
+            System.out.println("Conceito S: Exelente!");
         }
         else if (notaDoAluno >= 80){
             System.out.println("Conceito A: Muito bom");

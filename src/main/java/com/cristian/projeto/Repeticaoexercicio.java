@@ -5,6 +5,6 @@ public class Repeticaoexercicio {
         for(int i = 10; i>=1; i--){
              System.out.println("A contagem atual é: "+ i); 
         }
-        System.out.println("Lançamento!");
+            System.out.println("Lançamento!");
     }
     }

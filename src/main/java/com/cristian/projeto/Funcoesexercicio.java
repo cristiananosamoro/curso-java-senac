@@ -6,7 +6,7 @@ public class Funcoesexercicio {
     }
     public static void imprimirMensagem(String nome){
         System.out.println("-------------------------------------------");
-System.out.println("Óla " + nome + " este exercicio foi fácil! ,_,");
-System.out.println("-------------------------------------------");
+        System.out.println("Óla " + nome + " este exercicio foi fácil! ,_,");
+        System.out.println("-------------------------------------------");
     }
 }
